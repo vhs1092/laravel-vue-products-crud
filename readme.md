@@ -3,6 +3,7 @@
 Laravel working with Vue.js.
 
 ---
+![Screenshot](capture.png)
 
 ### Instructions
 
